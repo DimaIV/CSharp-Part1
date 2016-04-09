@@ -1,0 +1,13 @@
+﻿using System;
+
+
+class PrintNumber
+{
+    static void Main(string[] args)
+    {
+        Console.WriteLine(1);
+        Console.WriteLine(101);
+        Console.WriteLine(1002);
+    }
+}
+
